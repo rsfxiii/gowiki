@@ -1,0 +1,1 @@
+This Wiki project is going to help me learn Golang & some of its packages.
